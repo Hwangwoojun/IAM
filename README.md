@@ -7,7 +7,7 @@
 메인 디자인
 
 ## 주요 언어
-- 메인 디자인
+- Oracle, HTML/CSS, Java
 
 ---
 
